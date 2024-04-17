@@ -3,3 +3,4 @@ pyrogram
 telebot
 asyncio
 
+pyTelegramBotAPI
